@@ -12,3 +12,9 @@ Hi! I'm Yash. This is where I document my technical learnings, useful scripts, a
 - Daily learnings from my software engineering work
 - Useful automation scripts and tools
 - Technical solutions and tips
+
+## Recent Posts
+
+{% for post in site.posts %}
+  - [{{ post.title }}]({{ post.url }})
+{% endfor %}
