@@ -1,0 +1,8 @@
+title: Yash's Tech Notes
+description: My learnings, scripts, and technical documentation
+remote_theme: just-the-docs/just-the-docs
+
+# Optional configuration:
+color_scheme: dark
+heading_anchors: true
+search_enabled: true
